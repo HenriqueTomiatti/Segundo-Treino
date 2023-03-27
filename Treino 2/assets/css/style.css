@@ -1,0 +1,36 @@
+* {
+    margin: 0;
+    padding: 6px;
+    background-color: #e5fffe;
+}
+
+
+button {
+    size: 250px;
+    color: red;
+    border-radius: 40%;
+    border: 1px solid rgb(0, 0, 0);
+}
+
+input {
+    color: rgb(0, 0, 0); 
+    border-radius: 20%;
+}
+
+label {
+   color: rgb(79, 189, 152);
+   border: 1px solid black;
+   border-radius: 20%;
+}
+
+.titulo {
+    color: #fa93d3;
+    text-align: left;
+    text-decoration: underline black;
+}
+    
+
+.subtitulo {
+    color: #fa93d3;
+    padding: 10px;
+}
